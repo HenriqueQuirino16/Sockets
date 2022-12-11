@@ -24,3 +24,5 @@ try:
 except Exception as erro:
     print "Erro: " + str(erro)
     server.close()
+
+# pode conter alguns erros mais pra frente lanço código mais limpo
