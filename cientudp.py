@@ -14,3 +14,5 @@ except Exception as erro:
     print "Conexao falhou"
     print erro
     client.close()
+
+#  o codigo não esta limpo, mais pra frente lanço scripts limpos e depurados...   
